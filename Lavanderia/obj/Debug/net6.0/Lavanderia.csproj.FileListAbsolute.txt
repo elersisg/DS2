@@ -1,0 +1,15 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\bin\Debug\net6.0\Lavanderia.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\bin\Debug\net6.0\Lavanderia.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\bin\Debug\net6.0\Lavanderia.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\bin\Debug\net6.0\Lavanderia.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\bin\Debug\net6.0\Lavanderia.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.csproj.AssemblyReference.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\refint\Lavanderia.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\Lavanderia.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Lavanderia\obj\Debug\net6.0\ref\Lavanderia.dll

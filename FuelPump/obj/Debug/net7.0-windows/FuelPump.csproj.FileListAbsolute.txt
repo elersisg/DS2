@@ -1,0 +1,16 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\bin\Debug\net7.0-windows\FuelPump.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\bin\Debug\net7.0-windows\FuelPump.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\bin\Debug\net7.0-windows\FuelPump.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\bin\Debug\net7.0-windows\FuelPump.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\bin\Debug\net7.0-windows\FuelPump.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\refint\FuelPump.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\FuelPump.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\FuelPump\obj\Debug\net7.0-windows\ref\FuelPump.dll

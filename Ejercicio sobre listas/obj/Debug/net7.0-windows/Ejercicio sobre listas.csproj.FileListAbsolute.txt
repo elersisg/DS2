@@ -1,0 +1,16 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\bin\Debug\net7.0-windows\Ejercicio sobre listas.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\bin\Debug\net7.0-windows\Ejercicio sobre listas.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\bin\Debug\net7.0-windows\Ejercicio sobre listas.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\bin\Debug\net7.0-windows\Ejercicio sobre listas.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\bin\Debug\net7.0-windows\Ejercicio sobre listas.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio_sobre_listas.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\refint\Ejercicio sobre listas.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\Ejercicio sobre listas.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Ejercicio sobre listas\obj\Debug\net7.0-windows\ref\Ejercicio sobre listas.dll

@@ -1,0 +1,49 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.csproj.AssemblyReference.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy_Dice.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\refint\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de sofrware II\Fuzzy Dice\obj\Debug\net7.0-windows\ref\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy_Dice.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\refint\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\ref\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\bin\Debug\net7.0-windows\Fuzzy Dice.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy_Dice.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\refint\Fuzzy Dice.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\Fuzzy Dice.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Elerdocs\4to tri\Desarrollo de software II\Fuzzy Dice\obj\Debug\net7.0-windows\ref\Fuzzy Dice.dll

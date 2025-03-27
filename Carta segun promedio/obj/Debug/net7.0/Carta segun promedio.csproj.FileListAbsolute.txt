@@ -1,0 +1,14 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\bin\Debug\net7.0\Carta segun promedio.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\bin\Debug\net7.0\Carta segun promedio.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\bin\Debug\net7.0\Carta segun promedio.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\bin\Debug\net7.0\Carta segun promedio.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\bin\Debug\net7.0\Carta segun promedio.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\Carta segun promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\Carta segun promedio.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\Carta segun promedio.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\Carta segun promedio.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\Carta segun promedio.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\refint\Carta segun promedio.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\Carta segun promedio.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\Carta segun promedio.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Carta segun promedio\obj\Debug\net7.0\ref\Carta segun promedio.dll

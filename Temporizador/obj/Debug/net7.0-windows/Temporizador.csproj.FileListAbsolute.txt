@@ -1,0 +1,16 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\bin\Debug\net7.0-windows\Temporizador.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\bin\Debug\net7.0-windows\Temporizador.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\bin\Debug\net7.0-windows\Temporizador.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\bin\Debug\net7.0-windows\Temporizador.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\bin\Debug\net7.0-windows\Temporizador.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\refint\Temporizador.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\Temporizador.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Temporizador\obj\Debug\net7.0-windows\ref\Temporizador.dll

@@ -1,0 +1,16 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\bin\Debug\net7.0-windows\Interest calculator.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\bin\Debug\net7.0-windows\Interest calculator.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\bin\Debug\net7.0-windows\Interest calculator.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\bin\Debug\net7.0-windows\Interest calculator.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\bin\Debug\net7.0-windows\Interest calculator.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest_calculator.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\refint\Interest calculator.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\Interest calculator.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Interest calculator\obj\Debug\net7.0-windows\ref\Interest calculator.dll

@@ -1,0 +1,16 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type_app.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\bin\Debug\net7.0-windows\Type app.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\bin\Debug\net7.0-windows\Type app.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\bin\Debug\net7.0-windows\Type app.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\bin\Debug\net7.0-windows\Type app.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\bin\Debug\net7.0-windows\Type app.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\refint\Type app.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\Type app.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Type app\obj\Debug\net7.0-windows\ref\Type app.dll

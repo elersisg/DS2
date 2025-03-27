@@ -1,0 +1,16 @@
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\bin\Debug\net7.0-windows\EncuestaComida.exe
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\bin\Debug\net7.0-windows\EncuestaComida.deps.json
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\bin\Debug\net7.0-windows\EncuestaComida.runtimeconfig.json
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\bin\Debug\net7.0-windows\EncuestaComida.dll
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\bin\Debug\net7.0-windows\EncuestaComida.pdb
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.Form1.resources
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.csproj.GenerateResource.cache
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.AssemblyInfoInputs.cache
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.AssemblyInfo.cs
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.csproj.CoreCompileInputs.cache
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.dll
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\refint\EncuestaComida.dll
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.pdb
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\EncuestaComida.genruntimeconfig.cache
+C:\Users\prodi\OneDrive\Escritorio\intec  3 2023\Desarrollo II sec 03\EncuestaComida\EncuestaComida\obj\Debug\net7.0-windows\ref\EncuestaComida.dll

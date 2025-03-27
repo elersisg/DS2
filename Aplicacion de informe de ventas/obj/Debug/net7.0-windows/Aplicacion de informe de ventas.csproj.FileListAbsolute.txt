@@ -1,0 +1,16 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\bin\Debug\net7.0-windows\Aplicacion de informe de ventas.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\bin\Debug\net7.0-windows\Aplicacion de informe de ventas.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\bin\Debug\net7.0-windows\Aplicacion de informe de ventas.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\bin\Debug\net7.0-windows\Aplicacion de informe de ventas.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\bin\Debug\net7.0-windows\Aplicacion de informe de ventas.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion_de_informe_de_ventas.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\refint\Aplicacion de informe de ventas.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\Aplicacion de informe de ventas.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Desarrollo de software II\Aplicacion de informe de ventas\obj\Debug\net7.0-windows\ref\Aplicacion de informe de ventas.dll

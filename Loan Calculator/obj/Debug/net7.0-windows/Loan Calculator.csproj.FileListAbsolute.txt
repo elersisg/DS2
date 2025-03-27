@@ -1,0 +1,17 @@
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\bin\Debug\net7.0-windows\Loan Calculator.exe
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\bin\Debug\net7.0-windows\Loan Calculator.deps.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\bin\Debug\net7.0-windows\Loan Calculator.runtimeconfig.json
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\bin\Debug\net7.0-windows\Loan Calculator.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\bin\Debug\net7.0-windows\Loan Calculator.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.csproj.AssemblyReference.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan_Calculator.Form1.resources
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.csproj.GenerateResource.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.AssemblyInfoInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.AssemblyInfo.cs
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\refint\Loan Calculator.dll
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.pdb
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\Loan Calculator.genruntimeconfig.cache
+C:\Users\elers_5rx2f4j\OneDrive\Escritorio\Lab. desarrollo de software II\Loan Calculator\obj\Debug\net7.0-windows\ref\Loan Calculator.dll

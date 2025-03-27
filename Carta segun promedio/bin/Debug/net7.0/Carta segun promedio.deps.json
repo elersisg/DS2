@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Carta segun promedio/1.0.0": {
+        "runtime": {
+          "Carta segun promedio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carta segun promedio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
